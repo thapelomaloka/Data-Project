@@ -1,2 +1,2 @@
-# Data Analysis Project Using Python andits related Libraries
+# Data Analysis Project Using Python and its related Libraries
  
